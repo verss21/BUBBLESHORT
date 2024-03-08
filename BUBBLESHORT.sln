@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BUBBLESHORT", "BUBBLESHORT\BUBBLESHORT.vcxproj", "{C1FA266F-8AF9-47EC-95B3-862D94BACBA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FA266F-8AF9-47EC-95B3-862D94BACBA9}.Debug|x64.ActiveCfg = Debug|x64
+		{C1FA266F-8AF9-47EC-95B3-862D94BACBA9}.Debug|x64.Build.0 = Debug|x64
+		{C1FA266F-8AF9-47EC-95B3-862D94BACBA9}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1FA266F-8AF9-47EC-95B3-862D94BACBA9}.Debug|x86.Build.0 = Debug|Win32
+		{C1FA266F-8AF9-47EC-95B3-862D94BACBA9}.Release|x64.ActiveCfg = Release|x64
+		{C1FA266F-8AF9-47EC-95B3-862D94BACBA9}.Release|x64.Build.0 = Release|x64
+		{C1FA266F-8AF9-47EC-95B3-862D94BACBA9}.Release|x86.ActiveCfg = Release|Win32
+		{C1FA266F-8AF9-47EC-95B3-862D94BACBA9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC0EEAE-154D-477D-A2E4-C0CF15B0B716}
+	EndGlobalSection
+EndGlobal
